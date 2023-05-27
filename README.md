@@ -8,7 +8,7 @@ Data visualization is the graphical representation of information and data. By u
 
 # ALGORITHM
 ### STEP 1
-Read the given Data
+Read the given Datah
 ### STEP 2
 Clean the Data Set using Data Cleaning Process
 ### STEP 3
